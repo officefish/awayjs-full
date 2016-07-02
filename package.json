@@ -41,10 +41,20 @@
     "@awayjs/parsers": "^0.5.31"
   },
   "devDependencies": {
+    "browserify": "^13.0.1",
     "compression-webpack-plugin": "^0.3.1",
+    "exorcist": "^0.4.0",
+    "glob": "^7.0.5",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.4",
+    "path": "^0.12.7",
     "rimraf": "^2.5.2",
     "typescript": "^1.9.0-dev.20160603-1.0",
     "uglifyjs": "^2.4.10",
+    "vinyl-source-stream": "^1.1.0",
     "webpack": "^1.12.15"
   }
 }
