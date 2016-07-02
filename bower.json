@@ -1,0 +1,25 @@
+{
+  "name": "awayjs-full-build",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Rob Bateman",
+    "Sergey Inozemcev"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "AwayJS",
+    "WebGL",
+    "2D",
+    "3D",
+    "graphics"
+  ],
+  "homepage": "https://github.com/officefish/awayjs-full",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
