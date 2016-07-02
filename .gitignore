@@ -2,6 +2,7 @@
 bundles/
 dist/
 node_modules/
+bower_components/
 
 # Dev files
 npm-debug.log
