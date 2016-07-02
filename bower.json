@@ -1,5 +1,5 @@
 {
-  "name": "awayjs-full-build",
+  "name": "awayjs-full",
   "description": "Compiled awayjs library with all classes. Not official!",
   "main": "./build/awayjs-dist-require.js",
   "authors": [
