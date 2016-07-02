@@ -23,6 +23,6 @@
     "tests"
   ],
   "devDependencies": {
-    "awayjs-full": "4bc2db5"
+    "awayjs-full": "ddc8e80"
   }
 }
