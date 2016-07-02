@@ -1,7 +1,7 @@
 {
   "name": "awayjs-full",
   "description": "Compiled awayjs library with all classes. Not official!",
-  "main": "./awayjs-full/build/awayjs-dist-require.js",
+  "main": "build/awayjs-dist-require.js",
   "authors": [
     "Rob Bateman (library)",
     "Sergey Inozemcev (fork)"
